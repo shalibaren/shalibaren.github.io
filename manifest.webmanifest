@@ -2,8 +2,8 @@
   "name": "Ifeng Wu",
   "short_name": "Ifeng Wu",
   "lang": "en-us",
-  "theme_color": "#4caf50",
-  "background_color": "#4caf50",
+  "theme_color": "hsl(339, 90%, 68%)",
+  "background_color": "hsl(339, 90%, 68%)",
   "icons": [{
     "src": "/media/icon_hu8f2224efcf856063fc6b7a1b47a3a6d5_6399_192x192_fill_lanczos_center_3.png",
     "sizes": "192x192",
