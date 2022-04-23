@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories | Ifeng Wu</title>
+    <link>https://shalibaren.github.io/categories/</link>
+      <atom:link href="https://shalibaren.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <description>Categories</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Ifeng Wu</copyright><lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://shalibaren.github.io/media/icon_hu8f2224efcf856063fc6b7a1b47a3a6d5_6399_512x512_fill_lanczos_center_3.png</url>
+      <title>Categories</title>
+      <link>https://shalibaren.github.io/categories/</link>
+    </image>
+    
+  </channel>
+</rss>
